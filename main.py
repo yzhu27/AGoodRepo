@@ -26,8 +26,4 @@ def test_min():
 def test_mean():
     x = np.ones(10)
     assert(get_mean(x) == 1)
-
-
-test_max()
-test_min()
-test_mean()
+    
