@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/yzhu27/AGoodRepo)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7032972.svg)
 
-This program is aimed at geting the minimum, maximum values and the mean of the giving arrays. To implent this pioneering function, we built a team **GROUP 7** of 5 of the world most intelligent young people, who are:
+This program is aimed at geting the min, max and mean of any giving array. To implent this pioneering function, we built a team named **GROUP 7** of 5 of the world most intelligent young people, who are:
 
 Yuheng Zhu
 
