@@ -5,4 +5,4 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/yzhu27/AGoodRepo)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7032972.svg)
 
-This is a GOOD GitHub repository.
+## This is the first homework of SE22
