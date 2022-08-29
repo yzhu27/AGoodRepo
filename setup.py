@@ -1,11 +1,10 @@
-from setuptools import setup
+from setuptools import setup, find_packages
+
 setup(
-    name='AGoodRepo',
-    version='',
-    packages=[''],
-    url='',
-    license='',
-    author='Pinxiang Wang',
-    author_email='pwang25@ncsu.edu',
-    description='This is a test python project'
+    name = 'AGoodRepo',
+    version = '1.0',
+    description = 'This is the HW1 of Group 7.',
+    author = 'Group 7', 
+    url = 'https://github.com/yzhu27/AGoodRepo',
+    packages = find_packages(),
 )
