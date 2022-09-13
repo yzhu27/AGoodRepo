@@ -1,4 +1,6 @@
-from main import get_max, get_min, get_mean
+import sys
+sys.path.append(".")
+from code.main import get_max, get_min, get_mean
 import numpy as np
 
 def test_max():
